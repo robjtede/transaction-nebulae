@@ -1,0 +1,4 @@
+"accountName","accountNumber","accountType","availableBalance","currentBalance","customerNumber","interestRate","overdraftLimit","sortCode"
+"Current account","4538439729","CURRENT",1414,1314,"9208808101",1,100,"03-02-42"
+"Savings account","42472927","SAVINGS",0,0,"9208808101",2,,"03-36-30"
+"Credit card","4867047941437964","Visa",,62,"9208808101",16.9,,

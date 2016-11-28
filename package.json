@@ -1,0 +1,9 @@
+{
+  "name": "rob",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-csv-parse": "^1.2.0"
+  }
+}
